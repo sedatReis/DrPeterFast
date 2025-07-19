@@ -1,0 +1,34 @@
+#ditr_translate_element {
+    display: none;
+}
+
+#goog-gt-tt, .goog-te-banner-frame,#google_translate_element,#goog-gt- {
+    display: none !important;
+}
+
+
+.ditr-switch-language span {
+    cursor: pointer;
+}
+
+.ditr-switch-language span.active {
+    font-weight: bold;
+}
+
+
+.ditr-switch-language img {
+    border-style: solid;
+}
+
+
+.goog-text-highlight {
+    background: none !important;
+    box-shadow: none !important;
+}
+
+body {
+    top: 0px !important;
+}
+.skiptranslate iframe.skiptranslate{
+    display: none !important;
+}
