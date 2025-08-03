@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://praxis-noman.de</homePageLink>
+		<homePageLink>https://Praxis Dr. Peter Fast.de</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://praxis-noman.de/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://praxis-noman.de/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://praxis-noman.de/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://praxis-noman.de/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://praxis-noman.de/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://Praxis Dr. Peter Fast.de/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://Praxis Dr. Peter Fast.de/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://Praxis Dr. Peter Fast.de/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://Praxis Dr. Peter Fast.de/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://Praxis Dr. Peter Fast.de/wp-json/" />
 			</apis>
 	</service>
 </rsd>

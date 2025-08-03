@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Praxis-Noman</title>
-	<atom:link href="https://praxis-noman.de/feed" rel="self" type="application/rss+xml" />
-	<link>https://praxis-noman.de</link>
+	<title>Praxis Dr. Peter Fast</title>
+	<atom:link href="https://Praxis Dr. Peter Fast.de/feed" rel="self" type="application/rss+xml" />
+	<link>https://Praxis Dr. Peter Fast.de</link>
 	<description>Hausarzt - Allgemeinmedizin</description>
 	<lastBuildDate>Thu, 06 Jun 2024 08:52:18 +0000</lastBuildDate>
 	<language>de</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>https://i0.wp.com/praxis-noman.de/wp-content/uploads/2023/10/cropped-Design-ohne-Titel-17.png?fit=32%2C32&#038;ssl=1</url>
-	<title>Praxis-Noman</title>
-	<link>https://praxis-noman.de</link>
+	<url>https://i0.wp.com/Praxis Dr. Peter Fast.de/wp-content/uploads/2023/10/cropped-Design-ohne-Titel-17.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Praxis Dr. Peter Fast</title>
+	<link>https://Praxis Dr. Peter Fast.de</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">210285308</site>	<item>
 		<title>4</title>
-		<link>https://praxis-noman.de/4-2</link>
-					<comments>https://praxis-noman.de/4-2#respond</comments>
+		<link>https://Praxis Dr. Peter Fast.de/4-2</link>
+					<comments>https://Praxis Dr. Peter Fast.de/4-2#respond</comments>
 		
 		<dc:creator><![CDATA[verwaltung]]></dc:creator>
 		<pubDate>Thu, 06 Jun 2024 08:49:49 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://praxis-noman.de/4-2</guid>
+		<guid isPermaLink="false">https://Praxis Dr. Peter Fast.de/4-2</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://praxis-noman.de/4-2/feed</wfw:commentRss>
+					<wfw:commentRss>https://Praxis Dr. Peter Fast.de/4-2/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -54,5 +54,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using Disk: Enhanced (Page is feed) 
 Lazy Loading (feed)
 
-Served from: praxis-noman.de @ 2025-07-15 21:23:41 by W3 Total Cache
+Served from: Praxis Dr. Peter Fast.de @ 2025-07-15 21:23:41 by W3 Total Cache
 -->
